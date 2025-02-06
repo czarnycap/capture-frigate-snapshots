@@ -1,0 +1,1 @@
+# capture-frigate-snapshots
