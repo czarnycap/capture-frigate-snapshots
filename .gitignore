@@ -1,0 +1,57 @@
+# Ignore log files
+log/
+test*/
+# Ignore snapshot JPGs
+*.jpg
+*.jpeg
+
+# Ignore snapshot JPGs in all directories
+**/*.jpg
+**/*.jpeg
+
+# Ignore .env file
+.env
+
+# Ignore macOS .DS_Store files
+.DS_Store
+
+# Ignore compiled files
+*.o
+*.obj
+*.so
+*.exe
+
+# Ignore backup files
+*~
+*.bak
+*.swp
+
+# Ignore temporary files
+tmp/
+*.tmp
+*.temp
+
+# Ignore Python virtual environment
+venv/
+.env/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS generated files
+Thumbs.db
+
