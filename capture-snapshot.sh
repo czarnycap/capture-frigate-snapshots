@@ -59,3 +59,4 @@ for RTSP_URL in "${RTSP_URLS[@]}"; do
         echo "[$(date +"%Y-%m-%d %H:%M:%S")] Failed to capture snapshot for $CAMERA_NAME" >> "$LOG_FILE"
     fi
 done
+# test comment
